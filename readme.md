@@ -1,6 +1,6 @@
 # Hi! I'm Prashant 
 # 💫 About Me:
-👨‍💻 Software Developer & AI Enthusiast<br><br>I am a passionate developer originally from India, currently based in Athlone, Ireland. I have always been fascinated by the rapid evolution of technology—from the early days of basic computing to the transformative modern era of Artificial Intelligence. My goal is to build solution-oriented software that makes a real-world impact.<br><br>🎓 Education & Focus<br><br>🏫 Current: Pursuing MSc in Software Design with Artificial Intelligence at the Technological University of the Shannon (TUS).<br><br>🎯 Career Goal: Aspiring Software Architect / Software Designer. I focus on building scalable, efficient, and intelligent system architectures. 
+👨‍💻 Software Developer & AI Enthusiast<br><br>I am a passionate developer originally from India, currently based in Athlone, Ireland. I have always been fascinated by the rapid evolution of technology—from the early days of basic computing to the transformative modern era of Artificial Intelligence. My goal is to build solution-oriented software that makes a real-world impact.<br><br>🎓 Education & Focus<br><br>🏫 Current: Pursuing MSc in Software Design with Artificial Intelligence at the Technological University of the Shannon (TUS).<br>🎯 Career Goal: Aspiring Software Architect / Software Designer. I focus on building scalable, efficient, and intelligent system architectures. 
 
 
 ## 🌐 Socials:
